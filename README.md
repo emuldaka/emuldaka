@@ -33,6 +33,12 @@
 
 ---
 
+### 🧠 LeetCode Profile
+
+- Check out my [LeetCode profile](https://leetcode.com/u/DknSEtJWii/) for my problem-solving progress and solutions!
+
+---
+
 ### 📜 Certifications
 
 - **[Foundational C# with Microsoft](https://www.freecodecamp.org/certification/fccf80e1700-44dd-4ed8-bdf7-ff57101aaccf/foundational-c-sharp-with-microsoft)** - FreeCodeCamp
