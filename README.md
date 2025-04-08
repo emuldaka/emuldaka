@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **React and Algorithms**
 - 🧠 I’m also exploring **game development with Unity & web development**
 - ❤️ My favorite language is **JavaScript**
-- 📫 Reach me on [LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/elis-muldaka-7a880633a/))
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/elis-muldaka-7a880633a/)
 - 🧪 Check out my Codewars progress below!
 
 ---
