@@ -25,6 +25,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
 </p>
 
+### 📊 GitHub Stats
+
+![Elis Muldaka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emuldaka&show_icons=true&theme=dark)
+
 ---
 
 ### 🧠 Codewars Progress
