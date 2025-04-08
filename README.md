@@ -29,6 +29,14 @@
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emuldaka&theme=dark)
 
+### 💻 Top Languages
+
+![Elis Muldaka's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emuldaka&layout=compact&theme=dark)
+
+### 🌟 GitHub Stats by dooboolab
+
+![GitHub Stats](https://dooboo.io/api/stats/emuldaka)
+
 ---
 
 ### 🧠 Codewars Progress
