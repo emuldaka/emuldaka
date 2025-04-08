@@ -5,7 +5,7 @@
 - 🧠 I’m also exploring **game development with Unity & web development**
 - ❤️ My favorite language is **JavaScript**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/elis-muldaka-7a880633a/)
-- 🧪 Check out my Codewars & LeetCode progress below!
+- 🧪 Check out my Codewars, LeetCode, Unity, Microsoft, and Boot.dev progress below!
 
 ---
 
@@ -33,9 +33,31 @@
 
 ---
 
-### 🧠 LeetCode Profile
+### 🧠 LeetCode Progress
 
+![LeetCode Progress](https://img.shields.io/badge/LeetCode_Progress-20%25-brightgreen)  
 - Check out my [LeetCode profile](https://leetcode.com/u/DknSEtJWii/) for my problem-solving progress and solutions!
+
+---
+
+### 🎮 Unity Badges Progress
+
+![Unity Badges](https://img.shields.io/badge/Unity_Badges-7%2F20%20(35%25)-orange)  
+- I've earned 7 out of 20 Unity Learn badges! Check out my [Unity profile](https://learn.unity.com/u/666c9e95edbc2a0217c12841/?tab=profile) for more details.
+
+---
+
+### 🏆 Microsoft Learning Achievements
+
+![Microsoft Achievements](https://img.shields.io/badge/Microsoft_Achievements-5%2F10%20(50%25)-blue)  
+- I've earned 5 out of 10 Microsoft Learning Achievements! Check out my [Microsoft Learn Transcript](https://learn.microsoft.com/en-us/users/elismuldaka-7082/transcript) and [Achievements](https://learn.microsoft.com/en-us/users/me/achievements?tab=tab-learning-paths#trophies-section) for more details.
+
+---
+
+### 🌍 Boot.dev Progress
+
+![Boot.dev Progress](https://img.shields.io/badge/Boot.dev_Progress-2%2F5%20(40%25)-purple)  
+- I've completed 2 out of 5 Boot.dev certifications! Check out my [Boot.dev profile](https://www.boot.dev/u/achilles) for more details.
 
 ---
 
@@ -49,11 +71,5 @@
 - **[Microsoft Learning Achievements](https://learn.microsoft.com/en-us/users/me/achievements?tab=tab-learning-paths#trophies-section)** - Microsoft
 - **[Boot.dev JavaScript](https://www.boot.dev/certificates/12cbd728-e345-4e34-b088-21102ca9e180)** - Boot.dev
 - **[Boot.dev HTML clients in TypeScript](https://www.boot.dev/certificates/e9fa2301-d967-47cb-bf93-c8986042a231)** - Boot.dev
-
----
-
-### 🌍 Boot.dev Profile
-
-- [Check out my Boot.dev profile](https://www.boot.dev/u/achilles)
 
 ---
