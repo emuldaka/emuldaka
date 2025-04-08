@@ -25,9 +25,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
 </p>
 
-### 📊 GitHub Stats
+### 📊 Profile Summary Cards
 
-![Elis Muldaka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emuldaka&show_icons=true&theme=dark)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emuldaka&theme=dark)
 
 ---
 
