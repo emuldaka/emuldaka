@@ -9,9 +9,9 @@
 
 🌟 Featured Projects
 
-OmniCalc: A powerful calculator & converter app built with React and TypeScript. Try it here https://emuldaka.github.io/OmniCalc/ 🧮
+OmniCalc: A powerful calculator & converter app built with React and TypeScript. Try it here [emuldaka.github.io/OmniCalc](https://emuldaka.github.io/OmniCalc) 🧮
 
-Calendar App: A user-friendly calendar with authentication, built with React and Express. Visit it here https://emuldaka.site 📅
+Calendar App: A user-friendly calendar with authentication, built with React and Express. Visit it here [emuldaka.site](https://emuldaka.site) 📅
 
 ---
 
