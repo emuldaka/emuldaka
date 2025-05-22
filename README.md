@@ -7,6 +7,12 @@
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/elis-muldaka-7a880633a/)
 - 🧪 Check out my Codewars & LeetCode progress below!
 
+🌟 Featured Projects
+
+OmniCalc: A powerful calculator & converter app built with React and TypeScript. Try it here 🧮
+
+Calendar App: A user-friendly calendar with authentication, built with React and Express. Visit it here 📅
+
 ---
 
 ### 🧰 Languages and Tools
