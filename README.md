@@ -47,6 +47,10 @@ Calendar App: A user-friendly calendar with authentication, built with React and
 - **[Microsoft Learning Achievements](https://learn.microsoft.com/en-us/users/me/achievements?tab=tab-learning-paths#trophies-section)** - Microsoft
 - **[Boot.dev JavaScript](https://www.boot.dev/certificates/12cbd728-e345-4e34-b088-21102ca9e180)** - Boot.dev
 - **[Boot.dev HTML clients in TypeScript](https://www.boot.dev/certificates/e9fa2301-d967-47cb-bf93-c8986042a231)** - Boot.dev
+- **[Boot.dev TypeScript](https://www.boot.dev/certificates/9e1a76e8-4ab1-44fb-afac-85655705e30c)** - Boot.dev
+- **[Boot.dev Python](https://www.boot.dev/certificates/36923fbb-720f-461e-adbb-a82b6258effe)** - Boot.dev
+- **[Boot.dev Learn Linux](https://www.boot.dev/certificates/7c6d80f7-9e9b-46b0-81ab-58a022358bc8)** - Boot.dev
+- **[Boot.dev Learn Git](https://www.boot.dev/certificates/35f8cd5b-b1fd-45ff-a796-acf7d9e4750e)** - Boot.dev
 
 ---
 
